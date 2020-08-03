@@ -4,8 +4,9 @@ node_modules
 # build artefacts
 public
 src/css
-functions/*.json
-functions/*.html
+#functions/*.json
+#functions/*.html
+functions/
 src/previews/*
 
 # secrets and errors
